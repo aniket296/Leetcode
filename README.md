@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aniket296/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniket296/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniket296/Leetcode/tree/master/0018-4sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aniket296/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket296/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniket296/Leetcode/tree/master/0002-add-two-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket296/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aniket296/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniket296/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniket296/Leetcode/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
