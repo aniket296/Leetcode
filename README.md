@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aniket296/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aniket296/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aniket296/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aniket296/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniket296/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniket296/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aniket296/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aniket296/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aniket296/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
 ## Algorithm X
 |  |
 | ------- |
