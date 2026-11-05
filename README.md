@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aniket296/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aniket296/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aniket296/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/aniket296/Leetcode/tree/master/0046-permutations) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aniket296/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aniket296/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/aniket296/Leetcode/tree/master/0046-permutations) |
 ## Algorithm X
 |  |
 | ------- |
