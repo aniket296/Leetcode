@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aniket296/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aniket296/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aniket296/Leetcode/tree/master/0049-group-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/aniket296/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aniket296/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aniket296/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aniket296/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aniket296/Leetcode/tree/master/0049-group-anagrams) |
 | [2747-count-zero-request-servers](https://github.com/aniket296/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniket296/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/aniket296/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/aniket296/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aniket296/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aniket296/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aniket296/Leetcode/tree/master/0049-group-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/aniket296/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Dynamic Programming
