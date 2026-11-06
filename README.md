@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aniket296/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniket296/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aniket296/Leetcode/tree/master/0051-n-queens) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/aniket296/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aniket296/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -135,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aniket296/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aniket296/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aniket296/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/aniket296/Leetcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aniket296/Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/aniket296/Leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
