@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aniket296/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aniket296/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aniket296/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/aniket296/Leetcode/tree/master/0057-insert-interval) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniket296/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/aniket296/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/aniket296/Leetcode/tree/master/2747-count-zero-request-servers) |
